@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "About"
+    url: /about/
+  - title: "Terms and Privacy Policy"
+    url: /terms/
