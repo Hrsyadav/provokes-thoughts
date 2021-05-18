@@ -1,0 +1,14 @@
+---
+title: "Latest Posts"
+layout: single
+author_profile: true
+---
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<p class="archive__item">
+  <span class="date">{{ post.date }}</span>
+</p>
+{% endfor %} {% include paginator.html %}
