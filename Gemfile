@@ -17,8 +17,11 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-data"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
   gem 'jekyll-algolia'
   gem "jekyll-paginate"
+  gem "jekyll-include-cache"
   gem "jemoji"
 end
 
@@ -34,4 +37,3 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
-gem "minimal-mistakes-jekyll"

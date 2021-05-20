@@ -33,4 +33,9 @@ feature_row:
     btn_label: "Tags"
 ---
 
+  <div>
     {% include feature_row %}
+  </div>
+  <div class="entries-list">
+  {% include recent-posts.html %}
+  </div>

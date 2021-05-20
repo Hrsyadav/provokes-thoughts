@@ -1,9 +1,11 @@
 ---
-title: "Post: Video (YouTube)"
+title: "Video (YouTube)"
 categories:
   - video
 tags:
   - video
+header:
+  teaser: /assets/img/nature/nature1.jpeg
 ---
 
 YouTube video embed below.
