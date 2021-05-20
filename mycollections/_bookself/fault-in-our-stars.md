@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/img/bookself/The_Fault_in_Our_Stars.jpeg
   image_description: "A description of the image"
 toc: true
+date: 2021-05-20
 ---
 
 ## What i think about the book.
